@@ -18,7 +18,6 @@ nazwy_dni = {
     **weekendy,
 }
 
-
 print(weekendy.items())
 
 print(weekendy.values())
@@ -26,7 +25,6 @@ print(weekendy.values())
 print(weekendy.keys())
 
 print(weekendy.get("Sat"))
-
 
 print(dni_robocze)
 print(weekendy)
